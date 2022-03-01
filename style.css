@@ -99,7 +99,7 @@ a {
   margin-right: 0px;
   display: table;
   position: relative;
-  vertical-align: middle;
+  vertical-align: left;
 }
 .profile .picture-resume span {
   display: table-cell;
