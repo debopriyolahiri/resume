@@ -65,7 +65,7 @@ a {
   color: #4a4e51;
   text-transform: uppercase;
   line-height: 1.1em;
-  padding-top: 60px;
+  padding-top: 1000px;
 }
 @media (max-width: 1200px) {
   .profile h1 {
